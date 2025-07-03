@@ -6,7 +6,7 @@ const nextConfig = {
   env: {
     name: 'Nekocorp',
     description: 'Custom kasm workspaces images made by nekocorp',
-    icon: '/img/logo.svg',
+    icon: 'https://raw.githubusercontent.com/l3ochan/kasm-registry/refs/heads/1.1/site/public/logo%20round.png',
     listUrl: 'https://l3ochan.github.io/kasm-registry/',
     contactUrl: 'https://github.com/l3ochan/kasm-registry/issues',
   },
