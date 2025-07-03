@@ -19,7 +19,7 @@
     {
       "version": "1.17.x",
       "image": "l3ochan/ubuntu-focal-blender-workspace",
-      "uncompressed_size_mb": 4060,
+      "uncompressed_size_mb": 4141,
       "available_tags": [
         "latest"
       ]
