@@ -1,0 +1,28 @@
+{
+  "description": "This workspace is an install of Ubuntu Noble with Blender and some useful utilities alongside. It has GPU acceleration.",
+  "docker_registry": "https://index.docker.io/v1/",
+  "image_src": "blender.png",
+  "run_config": {
+    "hostname": "kasm"
+  },
+  "categories": [
+    "Desktop",
+    "Multimedia",
+    "Productivity"
+  ],
+  "friendly_name": "Blender",
+  "architecture": [
+    "amd64",
+    "arm64"
+  ],
+  "compatibility": [
+    {
+      "version": "1.17.x",
+      "image": "l3ochan/ubuntu-focal-blender-workspace",
+      "uncompressed_size_mb": 4217,
+      "available_tags": [
+        "latest"
+      ]
+    }
+  ]
+}
