@@ -19,7 +19,7 @@
     {
       "version": "1.17.x",
       "image": "l3ochan/ubuntu-jammy-blender-workspace",
-      "uncompressed_size_mb": 4141,
+      "uncompressed_size_mb": 12997,
       "available_tags": [
         "latest"
       ]
