@@ -1,5 +1,5 @@
 {
-  "description": "This workspace is an install of VScode with the necessary utilities and dependencies for SAE502",
+  "description": "This workspace is an install of Debian Bookworm with Gemini CLI and npm",
   "docker_registry": "https://index.docker.io/v1/",
   "image_src": "geminicli.png",
   "cores": 2,
