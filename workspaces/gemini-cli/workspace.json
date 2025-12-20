@@ -3,7 +3,7 @@
   "docker_registry": "https://index.docker.io/v1/",
   "image_src": "geminicli.png",
   "cores": 2,
-  "memory": 4662,
+  "memory": 2622,
   "run_config": {
     "hostname": "kasm"
   },
